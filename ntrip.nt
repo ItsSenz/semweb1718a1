@@ -65,7 +65,7 @@ _:11 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΜΑΘΗΜΑ> <http://dilab77.i
 _:11 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/sw/p14kats/resources/Εργ.%20Γαληνός> .
 _:11 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΔΙΔΑΣΚΩΝ> <http://dilab77.ionio.gr/sw/p14kats/resources/Ι.%20Καρύδης> .
 _:12 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΗΜΕΡΑ> "Πέμπτη" .
-_:12 <http://dilab77.ionio.gr/sw/p14katsp14kats/myvocab#ΕΝΑΡΞΗ> "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+_:12 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΕΝΑΡΞΗ> "11:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
 _:12 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΛΗΞΗ> "13:00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
 _:12 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΜΑΘΗΜΑ> <http://dilab77.ionio.gr/sw/p14kats/resources/Α.Δ.Κ.Ε.Γ.> .
 _:12 <http://dilab77.ionio.gr/sw/p14kats/myvocab#ΑΙΘΟΥΣΑ> <http://dilab77.ionio.gr/sw/p14kats/resources/Αίθουσα%201> .
